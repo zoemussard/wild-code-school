@@ -1,0 +1,8 @@
+Variables
+  nombre_repetition
+  
+DEBUT
+Afficher:"Combien de repetitions?:"
+lire nombre_repetition
+Afficher "Bienvenue à la wild"*nombre_repetition
+FIN
