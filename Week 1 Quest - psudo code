@@ -3,6 +3,6 @@ Variables
 
 DEBUT
   Afficher:"Combien de repetitions?:"
-    lire nombre_repetition
-  Afficher "Bienvenue à la wild"*nombre_repetition
+  lire nombre_repetition
+  Afficher "Bienvenue à la wild\n"*nombre_repetition
 FIN
