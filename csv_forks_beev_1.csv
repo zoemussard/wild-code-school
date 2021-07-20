@@ -22,4 +22,4 @@ type_mur;2;mur_medium;80;90
 type_mur;3;mur_hard;1500;180
 option_smapee;1;smapee;45;65
 option_advenir;1;advenir;300;500
-main_d_oeuvre;1;technicien;300;350
+main_d_oeuvre;1;technicien;300;3300
