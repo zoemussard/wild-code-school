@@ -2,7 +2,7 @@ category;answer_number;product_name;price_min;price_max
 type_cable;1;cable_prise;5;6
 type_cable;2;cable_3;7;8
 type_cable;3;cable_7;8;9
-type_cable;4;cable_11;9;10
+type_cable;4;cable_11;9;15
 type_cable;5;cable_22;15;20
 type_borne;1;borne_simple;500;500
 type_borne;2;borne_business;800;800
